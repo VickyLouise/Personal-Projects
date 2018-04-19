@@ -1,0 +1,7 @@
+This project predicts the price of a car using data scrapped from Craig's List and a specialist vehicles website.
+
+
+This project involved:
+- scrapping the data
+- processing the data into tabular form
+- building regression models
