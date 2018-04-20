@@ -5,3 +5,10 @@ This project involved:
 - scrapping the data
 - processing the data into tabular form
 - building regression models
+
+The notebooks should be read in the following order:
+
+1) Scrapping
+2) Modelling
+
+The slide deck and the write-up give more information on the motivation, method and results of the project.
